@@ -19,7 +19,8 @@ The final point will require that you have [Docker 19.03.12](https://docs.docker
 ## Usage
 
 Once you have made sure you meet the prerequisites listed above you can clone the repo. Once you have the repo, you must
-download the pretrained weights from [here](https://smpl-x.is.tue.mpg.de/downloads). You will need to download the 
+download the pretrained weights from [here](https://smpl-x.is.tue.mpg.de/downloads), you must make an account on
+the site first. You will need to download the 
 SMPL-X model, the VPoser model, and the Homogenus model. You will also need the `smplx_parts_segm.pkl` model from 
 [here](https://owncloud.tuebingen.mpg.de/index.php/s/MWnr8Kso4K8T8at). The structure of the directory should look as 
 follows:
