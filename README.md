@@ -4,7 +4,7 @@
 
 This is a repo that provides Dockerfiles to build containers for [SMPLify-X](https://github.com/vchoutas/smplify-x) and 
 [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose). For more detailed setup instructions and alternate
-use cases visit this [post on my website](https://kychdev.net/blog/getting-started-with-open-pose-and-smp-lify-x/).
+use cases visit this [post on my website](https://kych.dev/blog/getting-started-with-open-pose-and-smp-lify-x/).
 
 ## Prerequisites
 
